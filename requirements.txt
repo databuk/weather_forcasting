@@ -1,0 +1,8 @@
+streamlit
+joblib
+statsmodels
+pandas
+numpy
+scipy
+python-dateutil
+pytz
